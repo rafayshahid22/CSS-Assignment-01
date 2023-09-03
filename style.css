@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.main-div{
+border: 3px double black;
+text-align: center;
+height: 98vh;
+margin: 3px;
+}
+.container{
+    padding-top: 5%;
+    padding-bottom: 45PX;
+}
+.styled-hr{
+width: 40%;
+margin: 0 auto;
+border: 2px solid black;
+}
+.navbar table{
+border-collapse: separate;    
+border-spacing: 25px;
+display: inline-block;
+}
+.navbar table tr th:hover{
+    color: red;
+}
+.navbar {
+    text-align: center;
+}
+.styled-hr2{
+    width: 40%;
+    margin: 0 auto;
+}
+p{
+    text-align: center;
+    padding: 30px;
+}
+.keyboard-pics img { 
+width: 13.3%;
+padding-top: 20px;
+}
